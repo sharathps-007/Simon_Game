@@ -1,13 +1,13 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: black;
 }
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 2.5rem;
   margin:  3%;
-  color: #16eaf5;
+  color: white;
 }
 
 .container {
@@ -58,13 +58,13 @@ h1{
   font-family: 'Press Start 2P', cursive;
   font-size: 2rem;
   margin:  3%;
-  color: #16d7d4;
+  color: white;
 }
 .start{
   font-family: 'Press Start 2P', cursive;
   font-size: 1rem;
   position: relative;
-  background-color: #16d7d4;
+  background-color: black;
   width: 6rem;
   height: 2.5rem;
   right:3%;
@@ -75,7 +75,7 @@ h1{
   left: 5%;
   font-family: 'Press Start 2P', cursive;
   font-size: 1rem;
-  color: #0eadb2;
+  color: white;
 }
 li{
   margin: 4%;
@@ -83,5 +83,5 @@ li{
   text-align: left;
   font-size: 1rem;
   
-  color: #bffef3;
+  color: white;
 }
